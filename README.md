@@ -1,1 +1,1 @@
-# php-mailer
+# PHP Mailer
